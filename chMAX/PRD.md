@@ -1,5 +1,5 @@
-# PRD (Product Requirements Document) : 알바 정보 제공 서비스
-### 알바자리를 구하는 사람들에게 알바몬, 카카오톡 구직 채팅방 등의 정보를 데이터베이스화하여 제공하는 웹앱/프로그램 기획에 대한 PRD입니다.
+# PRD (Product Requirements Document): 알바 정보 제공 서비스
+### 알바자리를 구하는 사람들에게 알바몬, 카카오톡 구직 채팅방 등의 정보를 데이터베이스화하여 제공하는 웹앱/프로그램 기획에 대한 PRD 작성 가이드입니다.
 
 1. 제품 개요
 
@@ -66,18 +66,20 @@
 - Phase 2: 웹/앱 개발
 - Phase 3: 카카오톡/문자 연동
 - Phase 4: 맞춤 정보 추천 기능 개발
-- Phase 5: 테스트 및 배포(제외가능)
+- Phase 5: 테스트 및 배포(배포는 제외가능)
 
 5. 성공 지표
-- 사용자 수:
-- 앱 다운로드 수: (웹앱의 경우, 웹사이트 방문자 수)
-- 활성 사용자 수:
-- 알바 지원율:
-- 사용자 만족도:
+- 사용자 수
+- 앱 다운로드 수(웹앱의 경우, 웹사이트 방문자 수)
+- 활성 사용자 수
+- 알바 지원율
+- 사용자 만족도
+- 등등
 
 6. 참고 자료
-- 알바몬 API: (알바몬 API 제공 여부 확인 필요)
-- 카카오톡 API: https://developers.kakao.com/
+- 사람인 API: (https://oapi.saramin.co.kr/)(무료)
+- 카카오톡 API: https://developers.kakao.com/(일부무료)
+- 네이버지도 API: https://www.ncloud.com/product/applicationService/maps#overview(일부무료)
 
 7. 기타
 - 수익 모델: 광고, 유료 회원, 프리미엄 서비스 등
