@@ -1,4 +1,4 @@
-# PRD (Product Requirements Document) 작성 가이드: 알바 정보 제공 서비스
+# PRD (Product Requirements Document) : 알바 정보 제공 서비스
 ### 알바자리를 구하는 사람들에게 알바몬, 카카오톡 구직 채팅방 등의 정보를 데이터베이스화하여 제공하는 웹앱/프로그램 기획에 대한 PRD 작성 가이드입니다.
 
 1. 제품 개요
